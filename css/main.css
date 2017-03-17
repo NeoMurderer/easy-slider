@@ -1,0 +1,24 @@
+.easy-slider {
+    width: 640px;
+    height: 480px;
+
+    margin: auto;
+    position: fixed;
+
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.easy-slider ul {
+    list-style: none;
+}
+.easy-slider .buttons {
+    text-align: center;
+}
+.easy-slider .buttons .slide-button {
+    margin:10px;
+    background: #ffffff;
+    border:1px solid #e3e3e3;
+    outline: 0;
+}
